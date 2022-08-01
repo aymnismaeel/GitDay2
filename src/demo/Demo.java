@@ -7,9 +7,9 @@ public static void main(String[] args) {
 	
 	
 }
-
-// use123
-public void getName(String a,String b) {
+// for use 123
+public static void add(int a,int b) {
+	System.out.println(a+b);
 	
 }
 }
